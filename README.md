@@ -1,5 +1,6 @@
 # Dynamic-List-Laravel
-How to make dynamic list in laravel
+How to make dynamic list in laravel. This list can be used to all views file without use controller to create listing. You can create the global listing just like this. Have fun with code ^^.
+
 1. Create model 
    php artisan make:model modelNameFile
 
