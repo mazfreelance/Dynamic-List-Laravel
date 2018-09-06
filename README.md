@@ -14,3 +14,5 @@ How to make dynamic list in laravel
    @foreach($arrayname as $value)
     {{ $value->Columntable }}
    @endforeach
+
+example code: https://gist.github.com/mazfreelance/0f00c41a1a9f11358bf87a5878a0a945
